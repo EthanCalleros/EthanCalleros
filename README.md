@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on a key logging project and planning a potential fighting game project
+I'm currently working on a key logging project and planning a potential fighting game project\
 I'm learning more skills in C++ and Python as well as starting on SQL
 
 <!--
