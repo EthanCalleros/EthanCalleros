@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there my is Ethan 👋
 
-I'm currently working on a key logging project and planning a potential fighting game project\
+I'm currently working on a DNS-resolver project and planning a potential fighting game project
 I'm learning more skills in C++ and Python as well as starting on SQL
+I'm hoping to start a Key-Logging project once I am done with my current project
 
+A main goal of mine is to be able to get a better grasp on cyber security; primarily to learn about and how to combat malware
 <!--
 **Ynot654/Ynot654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
